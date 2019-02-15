@@ -1,0 +1,23 @@
+{
+  "name": "lets-build-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "develop": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "callback": "0.0.1",
+    "express": "4.16.4",
+    "jsonwebtoken": "8.4.0",
+    "mongoose": "5.3.4",
+    "nodemon": "1.18.5",
+    "passport": "^0.4.0",
+    "passport-jwt": "4.0.0",
+    "request": "^2.88.0",
+    "request-promise": "4.2.2"
+  }
+}
